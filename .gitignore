@@ -1,0 +1,30 @@
+# Build artifacts
+build/
+plugin.dll
+plugin.so
+plugin.dylib
+dist/
+
+# Dependency files
+dep/
+*.d
+
+# Object files
+*.o
+*.obj
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Debug
+*.log
+*.pdb

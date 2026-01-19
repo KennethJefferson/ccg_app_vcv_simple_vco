@@ -1,0 +1,23 @@
+{
+  "slug": "TonyVCO",
+  "name": "Tony VCO",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "Tony Baloney",
+  "author": "Tony Baloney",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "SimpleVCO",
+      "name": "Simple VCO",
+      "description": "A basic voltage-controlled oscillator with sine, saw, square, and triangle outputs",
+      "tags": ["Oscillator", "VCO"]
+    }
+  ]
+}
