@@ -18,6 +18,12 @@
       "name": "Simple VCO",
       "description": "A basic voltage-controlled oscillator with sine, saw, square, and triangle outputs",
       "tags": ["Oscillator", "VCO"]
+    },
+    {
+      "slug": "JuliaScope",
+      "name": "Julia Scope",
+      "description": "Fractal oscilloscope that visualizes audio as a Julia Set fractal",
+      "tags": ["Visual", "Oscilloscope"]
     }
   ]
 }

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="81.28mm" height="128.5mm" viewBox="0 0 81.28 128.5">
+  <rect x="0" y="0" width="81.28" height="128.5" fill="#1a1a2e"/>
+  <rect x="0.5" y="0.5" width="80.28" height="127.5" fill="none" stroke="#3a3a5e" stroke-width="0.5"/>
+  <text x="40.64" y="9" font-family="Arial" font-size="5" font-weight="bold" fill="#8888ff" text-anchor="middle">JULIA SCOPE</text>
+  <rect x="5.64" y="14" width="70" height="54" fill="#0a0a15" stroke="#3a3a5e" stroke-width="0.3"/>
+  <text x="20.32" y="70" font-family="Arial" font-size="2.5" fill="#aaaaaa" text-anchor="middle">C REAL</text>
+  <text x="60.96" y="70" font-family="Arial" font-size="2.5" fill="#aaaaaa" text-anchor="middle">C IMAG</text>
+  <text x="15.24" y="85" font-family="Arial" font-size="2.2" fill="#aaaaaa" text-anchor="middle">ZOOM</text>
+  <text x="40.64" y="85" font-family="Arial" font-size="2.2" fill="#aaaaaa" text-anchor="middle">ITER</text>
+  <text x="66.04" y="85" font-family="Arial" font-size="2.2" fill="#aaaaaa" text-anchor="middle">COLOR</text>
+  <text x="15.24" y="97" font-family="Arial" font-size="2.2" fill="#aaaaaa" text-anchor="middle">MOD</text>
+  <text x="40.64" y="97" font-family="Arial" font-size="2.2" fill="#99ff99" text-anchor="middle">TILT</text>
+  <text x="66.04" y="97" font-family="Arial" font-size="2.2" fill="#aaaaaa" text-anchor="middle">SPEED</text>
+  <line x1="5" y1="108" x2="76.28" y2="108" stroke="#3a3a5e" stroke-width="0.3"/>
+  <text x="10.16" y="112" font-family="Arial" font-size="2" fill="#66ccff" text-anchor="middle">L IN</text>
+  <text x="23.5" y="112" font-family="Arial" font-size="2" fill="#66ccff" text-anchor="middle">R IN</text>
+  <text x="40.64" y="112" font-family="Arial" font-size="2" fill="#ff9966" text-anchor="middle">Re CV</text>
+  <text x="53.98" y="112" font-family="Arial" font-size="2" fill="#ff9966" text-anchor="middle">Im CV</text>
+  <text x="71.12" y="112" font-family="Arial" font-size="2" fill="#ff9966" text-anchor="middle">Z CV</text>
+  <text x="40.64" y="126" font-family="Arial" font-size="2" fill="#555577" text-anchor="middle">Tony Baloney</text>
+</svg>

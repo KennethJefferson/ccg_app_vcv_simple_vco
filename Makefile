@@ -4,6 +4,7 @@ RACK_DIR ?= C:/dev-vcvrack/Rack-SDK
 # Source files
 SOURCES += src/plugin.cpp
 SOURCES += src/SimpleVCO.cpp
+SOURCES += src/JuliaScope.cpp
 
 # Add res folder to distributables
 DISTRIBUTABLES += res
